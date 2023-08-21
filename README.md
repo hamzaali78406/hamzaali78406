@@ -2,6 +2,8 @@
 
 <h2> Cybersecurity Projects:</h2>
 
+- [Conduting a security audit]
+
 <h2> Certifications:</h2>
 
 <h2>Popular YouTube Videos</h2>
